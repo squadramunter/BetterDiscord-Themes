@@ -1,5 +1,5 @@
 :root {
-    --BG-image-default: url('https://images.nrc.nl/tqIe5RZlRjP1Fyg1jI77BxWhOMM=/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2019/10/data50739726-191a07.jpg');
+    --BG-image-default: url('https://github.com/squadramunter/BetterDiscord-Themes/blob/master/FrostedGlass/trekker.jpg');
     --BG-image-set: var(--BG-image, var(--BG-image-default));
     --HSL-btns: calc(var(--HSL-size) + 20px);
     --HSL-btns-SF-opened: calc(var(--HSL-btns) + 55px);
